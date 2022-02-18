@@ -1,4 +1,4 @@
-<h3 align="center"> Affirm Case Study </h3>
+# <h3 align="center"> Affirm Case Study </h3>
 
 ### <ins>Overview and Origin:</ins>
 
@@ -24,9 +24,10 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 **What specific financial problem is the company or project trying to solve?**
 
 - Transparency in lending
-    - They offer interest free loans on qualified purchases. They are very transparent and upfront about fees, interest rates, and terms. They have underwriting that analyzes the best lending terms so that there is a lower chance of default.
-- Make things more affordable for customers who need to buy something now(online), but do not have the money or credit to cover the purchase right away.
-- On the retailers’ end, it Affirm makes things affordable to customers without compromising the price. This is all offered at point of sales so that company conversion rate is increased, and customers can purchase conveniently from their favorite websites.
+    - Affirm offers interest free loans on qualified purchases. They are very transparent and upfront about fees, interest rates, and terms. They have underwriting that analyzes the best lending terms so that there is a lower chance of default.
+- Affordability
+    - Affirm makes things more affordable for customers who need to buy something now(online), but do not have the money or credit to cover the purchase right away.
+- On the retail side, Affirm makes things affordable to customers without compromising the price. This is all offered at the point of sales so that company conversion rate is increased, and customers can purchase conveniently from their favorite websites.
 
 [Affirm's-Website-Tech](https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173)
 
