@@ -1,16 +1,16 @@
 <h3 align="center"> Affirm Case Study </h3>
 
-### Overview and Origin
+### <ins>Overview and Origin:</ins>
 
 Affirm is a lending product in the "buy now pay later" sector of the lending domain. This popular buy now pay later company was founded in 2012 by Max Levchin, Nathan Gettings, Jeffrey Kaditz, and Alex Rampell.
 
-[Affirm's-Wiki-Page] : https://en.wikipedia.org/wiki/Affirm_Holdings
+[Affirm's-Wiki-Page](https://en.wikipedia.org/wiki/Affirm_Holdings)
 
 **How did the idea for the company (or project) come about?**
 
 * Levchin and his friend and co-founder, Nathan, were thinking about ways to build a new credit score. Affirm started off as being an idea to create a more accurate representation of a customer’s creditworthiness. They realized that banks would not lend to customers using their brand new credit model, so they decided to utilize their own credit model and underwriting process to create their own “buy now, pay later” lending product. 
 
-[Protocol-Interview]https://www.protocol.com/manuals/buy-now-pay-later/levchin-affirm-bnpl-consumer-credit
+[Protocol-Interview](https://www.protocol.com/manuals/buy-now-pay-later/levchin-affirm-bnpl-consumer-credit)
 
 **How is the company funded? How much funding have they received?**
 
@@ -87,7 +87,7 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 [G2-Affirm's-Competitors]https://www.g2.com/products/affirm/competitors/alternatives
 
 
-### Results
+### Results:
 
 **What has been the business impact of this company so far?**
 
@@ -107,7 +107,7 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 [Emarketer-Buy-Now-Pay-Later-Market]https://www.emarketer.com/content/affirm-no-longer-dominates-us-buy-now-pay-later-market
  
 
-### Recommendations
+### Recommendations:
 
 **If you were to advise the company, what products or services would you suggest they offer?**
 
