@@ -1,10 +1,10 @@
 <h3 align="center"> Affirm Case Study </h3>
 
-## Overview and Origin
+### Overview and Origin
 
 Affirm is a lending product in the "buy now pay later" sector of the lending domain. This popular buy now pay later company was founded in 2012 by Max Levchin, Nathan Gettings, Jeffrey Kaditz, and Alex Rampell.
 
-[Affirm's-Wiki-Page] https://en.wikipedia.org/wiki/Affirm_Holdings
+[Affirm's-Wiki-Page] : https://en.wikipedia.org/wiki/Affirm_Holdings
 
 **How did the idea for the company (or project) come about?**
 
@@ -19,22 +19,22 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 [The-Wall-Street-Journal-Affirm]https://www.wsj.com/articles/fintech-lender-affirm-leans-on-investors-to-fund-rapid-growth-11632430057#:~:text=Affirm%20generates%20most%20of%20its,t%20slice%20up%20into%20securities.&text=It%20then%20buys%20the%20loans,the%20life%20of%20the%20loan
 
 
-## Business Activities:
+### Business Activities:
 
 **What specific financial problem is the company or project trying to solve?**
 
 - Transparency in lending
-	-They offer interest free loans on qualified purchases. They are very transparent and upfront about fees, interest rates, and terms. They have underwriting that analyzes the best lending terms so that there is a lower chance of default.
+    - They offer interest free loans on qualified purchases. They are very transparent and upfront about fees, interest rates, and terms. They have underwriting that analyzes the best lending terms so that there is a lower chance of default.
 - Make things more affordable for customers who need to buy something now(online), but do not have the money or credit to cover the purchase right away.
-- On the retailers’ end, it makes things affordable to customers without compromising the price. This is all offered at point of sales so that company conversion rate is increased, and customers can purchase conveniently from their favorite websites.
+- On the retailers’ end, it Affirm makes things affordable to customers without compromising the price. This is all offered at point of sales so that company conversion rate is increased, and customers can purchase conveniently from their favorite websites.
 
 [Affirm's-Website-Tech]https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173
 
 **Affirm's Customers**
 
-The intended customers are people who do not qualify for credit cards or prefer a fixed payment plan. Customers that use this product and similar products fall under the umbrella of “buy now, pay later”. According to Allied Market Research, the buy now pay later market size was valued at $90.69 billion in 2020. It is expected to reach over $3.98 trillion by 2030.
+* The intended customers are people who do not qualify for credit cards or prefer a fixed payment plan. Customers that use this product and similar products fall under the umbrella of “buy now, pay later. According to Allied Market Research, the buy now pay later market size was valued at $90.69 billion in 2020. It is expected to reach over $3.98 trillion by 2030.
 
-Affirm stands out from it’s competitors by offering something that not many others in its domain do not offer: No late fees. Affirm’s stands firm on not charging it’s customers more than what they agreed to pay when they originally applied. 
+* Affirm stands out from it’s competitors by offering something that not many others in its domain do not offer: No late fees. Affirm’s stands firm on not charging it’s customers more than what they agreed to pay when they originally applied. 
 
 [Affirm's-Website-Tech]https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173
 
@@ -56,10 +56,10 @@ Affirm stands out from it’s competitors by offering something that not many ot
 
 
 **Which technologies are they currently using, and how are they implementing them?**
--Machine Learning
-	- Affirm utilizes machine learning during its underwriting process to write approvals and optimize payment options. Recently, Affirm added a new product to their suite called “Adaptive Checkout”. According to Affirm’s website, this new product provides customers with customized payment options based on transaction size, and Affirm’s real-time underwriting decision. 
+- Machine Learning
+    - Affirm utilizes machine learning during its underwriting process to write approvals and optimize payment options. Recently, Affirm added a new product to their suite called “Adaptive Checkout”. According to Affirm’s website, this new product provides customers with customized payment options based on transaction size, and Affirm’s real-time underwriting decision. 
 
--With Affirm’s proprietary technology, customers can receive approvals almost instantly. They just enter their personal information in order to receive the approval. Interestingly, Affirm’s underwriting approval tech looks at more than just their credit history to gauge financial responsibility. They also investigate a customer’s social media activity for additional cues into whether the customer is financially responsible. 
+- With Affirm’s proprietary technology, customers can receive approvals almost instantly. They just enter their personal information in order to receive the approval. Interestingly, Affirm’s underwriting approval tech looks at more than just their credit history to gauge financial responsibility. They also investigate a customer’s social media activity for additional cues into whether the customer is financially responsible. 
 
 
 [Stackshare-Affirm]https://stackshare.io/affirm/affirm
@@ -67,7 +67,7 @@ Affirm stands out from it’s competitors by offering something that not many ot
 [Fast-Company-Affirm]https://www.fastcompany.com/company/affirm
 
 
-## Landscape:
+### Landscape:
 
 **What domain of the financial industry is the company in?**
 
@@ -75,19 +75,19 @@ Affirm stands out from it’s competitors by offering something that not many ot
 
 **What have been the major trends and innovations of this domain over the last 5-10 years?**
 
-* Over the past 10 years, the lending landscape has changed dramatically with the help of technology. In this domain, companies have made use of technological advancements in AI, Machine Learning, Cloud Computing, Digitization, etc. They have left behind more traditional processes in favor of more streamlined and accessible lending processes. These technologies help with analysis, organization, tasks, information collection, and more. Companies have been using these technological advances to make better credit decisions and approve loans for consumers who cannot get approved through more traditional channels. With the advent of these new capabilities, specifically, cloud computing, the lending domain has seen a rise in digital lenders. A task as simple as downloading an app on a smartphone brings you one step closer to applying for a loan in the comfort of your home. 
+* Over the past 10 years, the lending landscape has changed dramatically with the help of technology. In this domain, companies have made use of technological advancements in AI, Machine Learning, Cloud Computing, Digitization, etc. They have left behind more traditional processes in favor of more streamlined and accessible lending processes. These technologies help with analysis, organization, tasks, information collection, and more. Companies have been using these technological advances to make better credit decisions and approve loans for consumers who cannot get approved through more traditional channels. With the advent of these new capabilities, specifically, *cloud computing*, the lending domain has seen a rise in digital lenders. A task as simple as downloading an app on a smartphone brings you one step closer to applying for a loan in the comfort of your home. 
 
 [Financial-Express]https://www.financialexpress.com/money/how-technology-is-transforming-the-digital-lending-landscape-for-consumers/2381314/
 [Lead-Squared]https://www.leadsquared.com/lending-business-technology-trends/
 
 **Affirm's Major Competitors**
 
-*Top companies in this domain include Sezzle, Afterpay, PayPal Credit, Klarna, Splitit, Zip, Viabill, and FuturePay.
+* Top companies in this domain include Sezzle, Afterpay, PayPal Credit, Klarna, Splitit, Zip, Viabill, and FuturePay.
 
 [G2-Affirm's-Competitors]https://www.g2.com/products/affirm/competitors/alternatives
 
 
-## Results
+### Results
 
 **What has been the business impact of this company so far?**
 
@@ -95,7 +95,7 @@ Affirm stands out from it’s competitors by offering something that not many ot
 
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
-*In this domain, success is measures by Revenue, Net loss, Gross Merchandise volume, Active Merchants, and Active Consumers. Based on the 2021 Fiscal Year Financial highlights on Affirm’s websites, the company reported a net loss of $430.9 million, which is much higher than the previous year’s $112.6 million net loss reported in fiscal year 2020. However, Affirm’s gross merchandise volume increased by 106%, active merchants grew by 412%, and active consumers grew by 97%, which indicates positive growth.
+* In this domain, success is measures by Revenue, Net loss, Gross Merchandise volume, Active Merchants, and Active Consumers. Based on the 2021 Fiscal Year Financial highlights on Affirm’s websites, the company reported a net loss of $430.9 million, which is much higher than the previous year’s $112.6 million net loss reported in fiscal year 2020. However, Affirm’s gross merchandise volume increased by 106%, active merchants grew by 412%, and active consumers grew by 97%, which indicates positive growth.
 
 [Affirm's-Website-Investors]https://investors.affirm.com/news-releases/news-release-details/affirm-reports-fourth-quarter-and-fiscal-year-2021-results
 
@@ -107,7 +107,7 @@ Affirm stands out from it’s competitors by offering something that not many ot
 [Emarketer-Buy-Now-Pay-Later-Market]https://www.emarketer.com/content/affirm-no-longer-dominates-us-buy-now-pay-later-market
  
 
-## Recommendations
+### Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer?**
 
