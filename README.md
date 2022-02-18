@@ -1,4 +1,4 @@
-# <h3 align="center"> Affirm Case Study </h3>
+## <h3 align="center"> Affirm Case Study </h3>
 
 ### <ins>Overview and Origin:</ins>
 
