@@ -16,10 +16,10 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 
 * The company is funded in multiple ways. One way is through securitizations, which is the packaging of loans into securities and selling them to investors. Most of their funding comes from selling loans that were not packaged into securities. This made up 49% of their funding mix for the first half of 2021, and brought in $2.3 billion. Initially, they relied on warehouse funding from lenders, which made up 42% of their lending mix in 2020, and 19% in 2021. They have no plans to take on additional corporate debt to fund the company.
 
-[The-Wall-Street-Journal-Affirm]https://www.wsj.com/articles/fintech-lender-affirm-leans-on-investors-to-fund-rapid-growth-11632430057#:~:text=Affirm%20generates%20most%20of%20its,t%20slice%20up%20into%20securities.&text=It%20then%20buys%20the%20loans,the%20life%20of%20the%20loan
+[The-Wall-Street-Journal-Affirm](https://www.wsj.com/articles/fintech-lender-affirm-leans-on-investors-to-fund-rapid-growth-11632430057#:~:text=Affirm%20generates%20most%20of%20its,t%20slice%20up%20into%20securities.&text=It%20then%20buys%20the%20loans,the%20life%20of%20the%20loan)
 
 
-### Business Activities:
+### <ins>Business Activities:</ins>
 
 **What specific financial problem is the company or project trying to solve?**
 
@@ -28,7 +28,7 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 - Make things more affordable for customers who need to buy something now(online), but do not have the money or credit to cover the purchase right away.
 - On the retailers’ end, it Affirm makes things affordable to customers without compromising the price. This is all offered at point of sales so that company conversion rate is increased, and customers can purchase conveniently from their favorite websites.
 
-[Affirm's-Website-Tech]https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173
+[Affirm's-Website-Tech](https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173)
 
 **Affirm's Customers**
 
@@ -36,23 +36,23 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 
 * Affirm stands out from it’s competitors by offering something that not many others in its domain do not offer: No late fees. Affirm’s stands firm on not charging it’s customers more than what they agreed to pay when they originally applied. 
 
-[Affirm's-Website-Tech]https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173
+[Affirm's-Website-Tech](https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173)
 
-[The-Wall-Street-Journal-Affirm]https://www.wsj.com/articles/fintech-lender-affirm-leans-on-investors-to-fund-rapid-growth-11632430057#:~:text=Affirm%20generates%20most%20of%20its,t%20slice%20up%20into%20securities.&text=It%20then%20buys%20the%20loans,the%20life%20of%20the%20loan
+[The-Wall-Street-Journal-Affirm](https://www.wsj.com/articles/fintech-lender-affirm-leans-on-investors-to-fund-rapid-growth-11632430057#:~:text=Affirm%20generates%20most%20of%20its,t%20slice%20up%20into%20securities.&text=It%20then%20buys%20the%20loans,the%20life%20of%20the%20loan)
 
 **Buy Now Pay Later Market size**
 
 * According to Allied Market Research, the buy now pay later market was recently valued at $90.69 billion in 2020, and projected to reach $3.98 trillion by 2030.
 
 
-[Allied-Market-Research-Buy-Now-Pay-Later-Market]https://www.alliedmarketresearch.com/buy-now-pay-later-market-A12528#:~:text=The%20global%20buy%20now%20pay,45.7%25%20from%202021%20to%202030
+[Allied-Market-Research-Buy-Now-Pay-Later-Market](https://www.alliedmarketresearch.com/buy-now-pay-later-market-A12528#:~:text=The%20global%20buy%20now%20pay,45.7%25%20from%202021%20to%202030)
 
 
 **What sets Affirm apart**
 
 * While there are quite a few companies in the competitive space of buy now pay later, there are four major ways they differ from their competitors. First, they only ask for 5 pieces of information for a credit decision, which makes the application simple and quick. Second, they exercise transparency by showing consumers the total cost of the loan before they accept it. Third, they do not charge late, penalty, or annual fee. Last, they allow customers to choose between a loan term of 3,6, or 12 months, and don’t penalize customers for early payoff.
 
-[Affirm's-Website-Tech]https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173
+[Affirm's-Website-Tech](https://tech.affirm.com/how-affirm-is-different-understanding-the-fundamentals-of-credit-ed1346a9d173)
 
 
 **Which technologies are they currently using, and how are they implementing them?**
@@ -62,12 +62,12 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 - With Affirm’s proprietary technology, customers can receive approvals almost instantly. They just enter their personal information in order to receive the approval. Interestingly, Affirm’s underwriting approval tech looks at more than just their credit history to gauge financial responsibility. They also investigate a customer’s social media activity for additional cues into whether the customer is financially responsible. 
 
 
-[Stackshare-Affirm]https://stackshare.io/affirm/affirm
-[Affirm's-Website-Investors]https://www.affirm.com/press/releases/affirm-launches-adaptive-checkout
-[Fast-Company-Affirm]https://www.fastcompany.com/company/affirm
+[Stackshare-Affirm](https://stackshare.io/affirm/affirm)
+[Affirm's-Website-Investors](https://www.affirm.com/press/releases/affirm-launches-adaptive-checkout)
+[Fast-Company-Affirm](https://www.fastcompany.com/company/affirm)
 
 
-### Landscape:
+### <ins>Landscape:</ins>
 
 **What domain of the financial industry is the company in?**
 
@@ -77,17 +77,17 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 
 * Over the past 10 years, the lending landscape has changed dramatically with the help of technology. In this domain, companies have made use of technological advancements in AI, Machine Learning, Cloud Computing, Digitization, etc. They have left behind more traditional processes in favor of more streamlined and accessible lending processes. These technologies help with analysis, organization, tasks, information collection, and more. Companies have been using these technological advances to make better credit decisions and approve loans for consumers who cannot get approved through more traditional channels. With the advent of these new capabilities, specifically, *cloud computing*, the lending domain has seen a rise in digital lenders. A task as simple as downloading an app on a smartphone brings you one step closer to applying for a loan in the comfort of your home. 
 
-[Financial-Express]https://www.financialexpress.com/money/how-technology-is-transforming-the-digital-lending-landscape-for-consumers/2381314/
-[Lead-Squared]https://www.leadsquared.com/lending-business-technology-trends/
+[Financial-Express](https://www.financialexpress.com/money/how-technology-is-transforming-the-digital-lending-landscape-for-consumers/2381314/
+[Lead-Squared]https://www.leadsquared.com/lending-business-technology-trends/)
 
 **Affirm's Major Competitors**
 
 * Top companies in this domain include Sezzle, Afterpay, PayPal Credit, Klarna, Splitit, Zip, Viabill, and FuturePay.
 
-[G2-Affirm's-Competitors]https://www.g2.com/products/affirm/competitors/alternatives
+[G2-Affirm's-Competitors](https://www.g2.com/products/affirm/competitors/alternatives)
 
 
-### Results:
+### <ins>Results:</ins>
 
 **What has been the business impact of this company so far?**
 
@@ -97,17 +97,17 @@ Affirm is a lending product in the "buy now pay later" sector of the lending dom
 
 * In this domain, success is measures by Revenue, Net loss, Gross Merchandise volume, Active Merchants, and Active Consumers. Based on the 2021 Fiscal Year Financial highlights on Affirm’s websites, the company reported a net loss of $430.9 million, which is much higher than the previous year’s $112.6 million net loss reported in fiscal year 2020. However, Affirm’s gross merchandise volume increased by 106%, active merchants grew by 412%, and active consumers grew by 97%, which indicates positive growth.
 
-[Affirm's-Website-Investors]https://investors.affirm.com/news-releases/news-release-details/affirm-reports-fourth-quarter-and-fiscal-year-2021-results
+[Affirm's-Website-Investors](https://investors.affirm.com/news-releases/news-release-details/affirm-reports-fourth-quarter-and-fiscal-year-2021-results)
 
 
 **How is your company performing relative to competitors in the same domain?**
 
 * In recent years, Affirm has lost market share. As the buy now pay later option becomes more popular on our favorite websites, companies are becoming more competitive with their loan products. According to a chart on Emarketer’s site, Affirm had about 78% market share in 2018. This chart shows a drastic decline in Affirm’s market share to 16%. Klarna is shown to have to largest market share with 34%, followed by Afterpay with 26%. Affirm’s market share on the chart is tied with Quadpay.
 
-[Emarketer-Buy-Now-Pay-Later-Market]https://www.emarketer.com/content/affirm-no-longer-dominates-us-buy-now-pay-later-market
+[Emarketer-Buy-Now-Pay-Later-Market](https://www.emarketer.com/content/affirm-no-longer-dominates-us-buy-now-pay-later-market)
  
 
-### Recommendations:
+### <ins>Recommendations:</ins>
 
 **If you were to advise the company, what products or services would you suggest they offer?**
 
